@@ -1,3 +1,7 @@
-let divide = () => 2000/100;
-let square = (x) => (x*x);
-let add = (a,b) => (a+b);
+let divide = (parameter1,parameter2) => 2000/100;
+divide(20)
+let square = (x) => (2*2);
+square(4)
+
+let add = (a,b) => (3+4);
+add(7)
